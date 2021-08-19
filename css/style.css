@@ -1,0 +1,57 @@
+#one{
+	padding:100px 0 80px 0;	
+}
+#two{
+	
+	padding:60px 0 230px 0;	
+}
+
+#footer{
+	background-color:#1E1E1E;
+}
+#three{
+	padding:80px 0 100px 0;
+	 background-color:#F7F7F7;
+	 height:auto;
+}
+#three-one{
+	padding:80px 0 100px 0;
+	 background-color:#F7F7F7;
+	 height:100vh;
+}
+#admin-box{
+	background-color:white;
+	padding:40px 30px 40px 30px;	
+}
+a{
+	color:#3F3F3F;	
+}
+a:hover{
+	text-decoration:none;
+	color:black;	
+}
+#count-box-one{
+	height:100px;
+	background-color:#004284;	
+}
+#count-box-two{
+	height:100px;
+	background-color:#084;	
+}
+#count-box-three{
+	height:100px;
+	background-color:#F97C00;	
+}
+#button-link{
+	color:#F90438;	
+}
+#button-link-heading{
+	border-left:4px solid #F90438; 	
+}
+#table-area{
+	overflow:auto;
+	padding:20px 0 40px 0;	
+}
+#user-table{
+	width:1800px;	
+}
